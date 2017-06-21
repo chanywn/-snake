@@ -1,3 +1,3 @@
-# Snack
+#  snake
 
 ![](snack.png)
