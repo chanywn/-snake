@@ -1,3 +1,3 @@
 #  snake
 
-![](snake.png)
+![](snack.png)
